@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-ferii-zimowych-dla-trzeciego-terminu",
+    "name": "Rozpoczęcie ferii zimowych dla woj. dolnośląskiego, mazowieckiego, opolskiego, zachodniopomorskiego",
+    "date": "2022/01/31",
+    "isDependent": true
+  },
+  {
+    "slug": "zakonczenie-ferii-zimowych-dla-trzeciego-terminu",
+    "name": "Zakończenie ferii zimowych dla woj. dolnośląskiego, mazowieckiego, opolskiego, zachodniopomorskiego",
+    "date": "2022/02/13",
+    "isDependent": true
+  }
+]

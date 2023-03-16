@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-ferii-zimowych-dla-czwartego-terminu",
+    "name": "Rozpoczęcie ferii zimowych dla woj. lubelskiego, łódzkiego, podkarpackiego, pomorskiego, śląskiego",
+    "date": "2022/02/24",
+    "isDependent": true
+  },
+  {
+    "slug": "zakonczenie-ferii-zimowych-dla-czwartego-terminu",
+    "name": "Zakończenie ferii zimowych dla woj. lubelskiego, łódzkiego, podkarpackiego, pomorskiego, śląskiego",
+    "date": "2022/02/27",
+    "isDependent": true
+  }
+]

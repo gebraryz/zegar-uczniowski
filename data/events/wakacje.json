@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "rozpoczecie-ferii-letnich",
+    "name": "Rozpoczęcie ferii letnich (wakacji)",
+    "date": "2022/06/25",
+    "isDependent": true
+  },
+
+  {
+    "slug": "zakonczenie-ferii-letnich",
+    "name": "Zakończenie ferii letnich (wakacji)",
+    "date": "2022/08/31",
+    "isDependent": true
+  }
+]

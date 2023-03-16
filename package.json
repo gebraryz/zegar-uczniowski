@@ -1,0 +1,49 @@
+{
+  "name": "zegar-uczniowski",
+  "description": "Application which counts down to important events for polish students.",
+  "version": "0.1.0",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.1",
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@fontsource/inter": "^4.5.10",
+    "axios": "^0.27.2",
+    "chrome-aws-lambda": "^3.0.4",
+    "dayjs": "^1.11.2",
+    "framer-motion": "^6.3.4",
+    "lodash": "^4.17.21",
+    "next": "^12.1.6",
+    "next-absolute-url": "^1.2.2",
+    "next-seo": "^5.4.0",
+    "numeral": "^2.0.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "sharp": "^0.30.5",
+    "usehooks-ts": "^2.5.3"
+  },
+  "devDependencies": {
+    "@types/numeral": "^2.0.2",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.5",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "prettier": "^2.6.2",
+    "puppeteer": "^14.1.1",
+    "typescript": "^4.7.2"
+  },
+  "scripts": {
+    "develop": "next dev --port 8000",
+    "build": "next build",
+    "start": "next start --port 8000",
+    "lint:code": "eslint . --ext ts,tsx,js --fix",
+    "format:code": "prettier --write \"**/*.{js,ts,tsx,json,md}\""
+  }
+}

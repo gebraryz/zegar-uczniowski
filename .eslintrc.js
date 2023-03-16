@@ -1,0 +1,56 @@
+module.exports = {
+  root: true,
+  parser: '@typescript-eslint/parser',
+  plugins: [
+    '@typescript-eslint',
+    'unicorn',
+    'import',
+    'jsx-a11y',
+    'react',
+    'react-hooks',
+  ],
+  extends: [
+    'eslint:recommended',
+    'plugin:@typescript-eslint/eslint-recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:unicorn/recommended',
+    'plugin:import/recommended',
+    'plugin:import/warnings',
+    'plugin:import/errors',
+    'plugin:import/typescript',
+    'plugin:jsx-a11y/recommended',
+    'plugin:react/recommended',
+    'plugin:react-hooks/recommended',
+    'prettier',
+  ],
+  parserOptions: {
+    ecmaFeatures: {
+      ecmaVersion: 2021,
+      jsx: true,
+      sourceType: 'module',
+    },
+  },
+  settings: {
+    react: { version: 'detect' },
+  },
+  env: { node: true, browser: true },
+  rules: {
+    semi: 2,
+    'jsx-a11y/anchor-is-valid': [
+      'error',
+      {
+        components: ['Link'],
+        specialLink: ['hrefLeft', 'hrefRight'],
+        aspects: ['invalidHref', 'preferButton'],
+      },
+    ],
+    'react/prop-types': 0,
+    'react/react-in-jsx-scope': 'off',
+    'react/jsx-filename-extension': [1, { extensions: ['.ts', '.tsx'] }],
+    'unicorn/prefer-module': 0,
+    'unicorn/prefer-node-protocol': 0,
+    'unicorn/filename-case': 0,
+    'unicorn/prevent-abbreviations': 0,
+    'unicorn/no-null': 0,
+  },
+};

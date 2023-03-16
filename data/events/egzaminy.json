@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "egzamin-maturalny-z-jezyka-polskiego",
+    "name": "Egzamin maturalny z języka polskiego",
+    "date": "2022/05/04, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "egzamin-maturalny-z-matematyki",
+    "name": "Egzamin maturalny z matematyki",
+    "date": "2022/05/05, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "egzamin-maturalny-z-jezyka-obcego",
+    "name": "Egzamin maturalny z języka obcego",
+    "date": "2022/05/24, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "egzamin-osmoklasisty-z-jezyka-polskiego",
+    "name": "Egzamin ósmoklasisty z języka polskiego",
+    "date": "2022/05/24, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "egzamin-osmoklasisty-z-matematyki",
+    "name": "Egzamin ósmoklasisty z matematyki",
+    "date": "2022/05/25, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "egzamin-osmoklasisty-z-jezyka-obcego",
+    "name": "Egzamin ósmoklasisty z języka obcego",
+    "date": "2022/05/26, 00:00:00",
+    "isDependent": true
+  }
+]

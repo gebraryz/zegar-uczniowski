@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-roku-szkolnego",
+    "name": "Rozpoczęcie roku szkolnego",
+    "date": "2021/09/01, 00:00:00",
+    "isDependent": true
+  },
+  {
+    "slug": "zakonczenie-roku-szkolnego",
+    "name": "Zakończenie roku szkolnego",
+    "date": "2022/06/24, 00:00:00",
+    "isDependent": true
+  }
+]

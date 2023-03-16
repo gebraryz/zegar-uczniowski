@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "wigilia-bozego-narodzenia",
+    "name": "Wigilia Bożego Narodzenia",
+    "date": "12/24, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "pierwszy-dzien-swiat",
+    "name": "Pierwszy dzień świąt",
+    "date": "12/25, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "drugi-dzien-swiat",
+    "name": "Drugi dzień świąt",
+    "date": "12/26, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "nowy-rok",
+    "name": "Nowy Rok",
+    "date": "01/01, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "sylwester",
+    "name": "Sylwester",
+    "date": "12/31, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "dzien-edukacji-narodowej",
+    "name": "Dzień Edukacji Narodowej",
+    "date": "10/14, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "wszystkich-swietych",
+    "name": "Wszystkich świętych",
+    "date": "11/01, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "dzien-zaduszny",
+    "name": "Dzień zaduszny",
+    "date": "11/02, 00:00:00",
+    "isDependent": false
+  },
+  {
+    "slug": "narodowe-swieto-niepodlegosci",
+    "name": "Narodowe Święto Niepodległości",
+    "date": "11/11, 00:00:00",
+    "isDependent": false
+  }
+]

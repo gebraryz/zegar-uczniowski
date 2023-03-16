@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Dlaczego na stronie internetowej nie znajdę wszystkich wydarzeń, które znajdują się w polskim kalendarzu?",
+    "answer": "Strona internetowa odlicza do wydarzeń, które są istotne dla polskich uczniów."
+  },
+  {
+    "question": "Dlaczego niektóre wydarzenia (po zakończeniu ich odliczania) posiadają informację, że zostaną one wznowione w przyszłości?",
+    "answer": "Dzieje się tak, iż są to wydarzenia wymagające corocznej aktualizacji daty. Nie są one nam wtedy znane, co powoduje, że tego typu informacja musi zostać wyświetlona."
+  },
+  {
+    "question": "Co jaki czas aktualizowane są wydarzenia wymagające podania nowej, aktualnej daty?",
+    "answer": "Gdy owa data zostanie podana, będziemy się starać, aby dane wydarzenie otrzymało aktualizację w jak najszybszym czasie, żeby móc na nowo cieszyć się odliczaniem."
+  },
+  {
+    "question": "Do jakich celów używamy plików cookies (ciasteczek)?",
+    "answer": "Pliki cookies (ciasteczka) są przez nas używane, aby móc zapewnić użytkownikowi najwyższy komfort podczas korzystania z witryny."
+  },
+  {
+    "question": "Czy mogę zapisać stworzone przeze mnie wydarzenie?",
+    "answer": "Nie. Jest to na chwilę obecną niemożliwe."
+  }
+]

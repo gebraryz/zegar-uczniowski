@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-zimowej-przerwy-swiatecznej",
+    "name": "Rozpoczęcie zimowej przerwy świątecznej",
+    "date": "12/23",
+    "isDependent": false
+  },
+  {
+    "slug": "zakonczenie-zimowej-przerwy-swiatecznej",
+    "name": "Zakończenie zimowej przerwy świątecznej",
+    "date": "12/31",
+    "isDependent": false
+  }
+]

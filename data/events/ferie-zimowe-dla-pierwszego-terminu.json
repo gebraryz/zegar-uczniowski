@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-ferii-zimowych-dla-pierwszego-terminu",
+    "name": "Rozpoczęcie ferii zimowych dla woj. kujawsko-pomorskiego, lubuskiego, małopolskiego, świętokrzyskiego, wielkopolskiego",
+    "date": "2022/01/17",
+    "isDependent": true
+  },
+  {
+    "slug": "zakonczenie-ferii-zimowych-dla-pierwszego-terminu",
+    "name": "Zakończenie ferii zimowych dla woj. kujawsko-pomorskiego, lubuskiego, małopolskiego, świętokrzyskiego, wielkopolskiego",
+    "date": "2022/01/30",
+    "isDependent": true
+  }
+]

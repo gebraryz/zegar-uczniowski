@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-wiosennej-przerwy-swiatecznej",
+    "name": "Rozpoczęcie wiosennej przerwy świątecznej",
+    "date": "2022/05/14",
+    "isDepedent": true
+  },
+  {
+    "slug": "zakonczenie-wiosennej-przerwy-swiatecznej",
+    "name": "Zakończenie wiosennej przerwy świątecznej",
+    "date": "2022/05/19",
+    "isDepedent": true
+  }
+]

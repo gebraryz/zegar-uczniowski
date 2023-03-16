@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "rozpoczecie-ferii-zimowych-dla-drugiego-terminu",
+    "name": "Rozpoczęcie ferii zimowych dla woj. podlaskiego, warmińsko-mazurskiego",
+    "date": "2022/01/24",
+    "isDependent": true
+  },
+  {
+    "slug": "zakonczenie-ferii-zimowych-dla-drugiego-terminu",
+    "name": "Zakończenie ferii zimowych dla woj. podlaskiego, warmińsko-mazurskiego",
+    "date": "2022/02/06",
+    "isDependent": true
+  }
+]
