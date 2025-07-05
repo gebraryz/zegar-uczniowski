@@ -1,31 +1,52 @@
-# Zegar uczniowski
+# 🕒 Zegar Uczniowski
 
-Application which counts down time to important events for polish students.
+A web application that counts down time to important events for Polish students.
 
-## Used technologies
+## 📚 About
 
-- TypeScript
-- Next.js
-- Chakra UI
+Zegar Uczniowski (literally "Student Clock") shows live countdowns to upcoming school breaks in Poland — including winter holidays, summer vacation, and other important dates. It’s designed to be helpful for students, teachers, and parents alike.
 
-## Installation
+## ⚙️ Tech Stack
 
-1. Open the folder in your terminal
+- **Next.js 12**
+- **Chakra UI** for component library and styling
+- **TypeScript** for type safety
 
-2. Install necessary dependencies
+## ✨ Features
 
-   ```shell
-   $ npm install
-   ```
+- ⏳ Real-time countdown to school breaks and holidays
+- 🌙 Light & dark mode support
+- 🔍 SEO-optimized using `next-seo`
+- 💡 Simple and accessible UI built with Chakra UI
+- 🖼️ Dynamic Open Graph image generation for better sharing
+- ❓ Q&A section for common school-related questions
 
-3. Run the project in development mode
+## 🚀 Getting Started
 
-   ```shell
-   $ npm run develop
-   ```
+### Prerequisites
 
-4. Open running project on `http://localhost:8000` in your browser.
+- Node.js 16+
+- `npm` or `yarn`
 
-## Acknowledgements
+### Installation
 
-Thank you very much for every support for this project.
+```bash
+# Clone the repository
+git clone https://github.com/gebraryz/zegar-uczniowski
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run develop
+```
+
+Open `http://localhost:3000` in your browser.
+
+## 🕰️ Project History
+
+This project was originally developed in 2022. I added it to my private GitHub repository in 2023, and now in 2025 I've decided to make it public to share with the community. The code remains unchanged from its original 2022 version.
+
+## 📄 Licens
+
+MIT
